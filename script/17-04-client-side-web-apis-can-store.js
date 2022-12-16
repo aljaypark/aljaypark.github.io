@@ -128,7 +128,7 @@ function initialize(products) {
   // display it
   function fetchBlob(product) {
     // construct the URL path to the image file from the product.image property
-    const url = `images/${product.image}`;
+    const url = `./images/${product.image}`;
     // Use fetch to fetch the image, and convert the resulting response to a blob
     // Again, if any errors occur we report them in the console.
     fetch(url)
