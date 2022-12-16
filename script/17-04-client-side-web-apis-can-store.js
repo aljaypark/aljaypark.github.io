@@ -2,7 +2,7 @@
 // report any errors that occur in the fetch operation
 // once the products have been successfully loaded and formatted as a JSON object
 // using response.json(), run the initialize() function
-fetch('products.json')
+fetch('./products.json')
   .then( (response) => {
     if (!response.ok) {
       throw new Error(`HTTP error occured!!: ${response.status}`);
