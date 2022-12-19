@@ -1,0 +1,11 @@
+Author: Alberto Joonyoung Park
+Project: Data Analyst Portfolio Web pages
+Due date: Wednesday December 21, 2022
+Hosting: Github Pages
+
+Item breakdown:
+1) Page Wireframe layout
+2) Content description
+3) Area to use Javascript
+4) Select Images
+
